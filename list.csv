@@ -1,144 +1,144 @@
-﻿Id;Catégorie;Titre;Localisation
-1;Musique;Découvrir la musique classique;Local
-2;Musique;Jouer de la musique;Local
-3;Musique;Aller à un concert;France
-4;Sorties & Rencontres;Faire un bowling;Local
-5;Sorties & Rencontres;Découvrir des jeux de société;Local
-6;Voyage & Echange;Parler anglais;Local
-7;Voyage & Echange;Parler allemand;Local
-8;Voyage & Echange;Parler espagnol;Local
-9;Sorties & Rencontres;Se faire un cinéma;Local
-10;Culture & Arts;Visiter un château;France
-11;Voyage & Echange;Aller au Japon;France
-12;Voyage & Echange;Aller en Thaïlande;France
-13;Voyage & Echange;Aller au Canada;France
-14;Voyage & Echange;Aller aux USA;France
-15;Voyage & Echange;Aller en Amérique Latine;France
-16;Voyage & Echange;Faire un voyage en Asie;France
-17;Sorties & Rencontres;Visiter Paris;France
-18;Culture & Arts;Aller au musée du Louvre;France
-19;Culture & Arts;Aller au musée Grévin;France
-20;Musique;Découvrir l'Opéra;France
-21;Sorties & Rencontres;Faire un afterwork;Local
-22;Sorties & Rencontres;Apprendre à danser (SBK);Local
-23;Sorties & Rencontres;Apprendre une danse de salon;Local
-24;Sports & Jeux;Faire du breakdance;Local
-25;Sports & Jeux;Danser le modern Jazz;Local
-26;Sports & Jeux;Danser le rock acrobatique;Local
-27;Sports & Jeux;Faire une soirée karaoké;Local
-28;Voyage & Echange;Faire une randonnée;France
-29;Voyage & Echange;Faire le GR20;France
-30;Sports & Jeux;Participer à une course (5 ou 10km);France
-31;Sports & Jeux;Participer à un semi-marathon;France
-32;Sports & Jeux;Participer à un marathon;France
-33;Sports & Jeux;Faire un trail;France
-34;Sports & Jeux;Faire un triathlon;France
-35;Sports & Jeux;Faire une sortie VTT;France
-36;Culture & Arts;Participer à un vernissage;Local
-37;Sports & Jeux;Faire de l'escalade;Local
-38;Voyage & Echange;Faire une sortie moto;Local
-39;Sports & Jeux;Sortie trampoline;Local
-40;Sports & Jeux;Faire un karting;Local
-41;Sorties & Rencontres;Balade en plein air;Local
-42;Sorties & Rencontres;Initiation œnologie;Local
-43;Sorties & Rencontres;Initiation cuisine;Local
-44;Loisirs créatifs;Découvrir le scrapbooking;Local
-45;Musique;Aller à la Philharmonie de Paris;France
-46;Sorties & Rencontres;Découvrir le meilleur resto de Paris;Local
-47;Sorties & Rencontres;Assister à un stand-up ;Local
-48;Musique;Faire une scène ouverte musique;Local
-49;Sorties & Rencontres;Balade avec nos chiens;Local
-50;Voyage & Echange;Sortie photographie;Local
-51;Voyage & Echange;Observation astronomique;Local
-52;Voyage & Echange;Randonnée Camino Frances;France
-53;Voyage & Echange;Randonnée GR10;France
-54;Voyage & Echange;Randonnée GR31;France
-55;Voyage & Echange;Randonnée GR34;France
-56;Sorties & Rencontres;Promenade cross;Local
-57;Sorties & Rencontres;Promenade quad;Local
-58;Sports & Jeux;Sortie vélo de route;Local
-59;Culture & Arts;Aller au théâtre;Local
-60;Voyage & Echange;Urbex : découverte de lieux abandonnés;Local
-61;Voyage & Echange;Débat d'opinions;Local
-62;Sorties & Rencontres;Sortie shopping;Local
-63;Sports & Jeux;Faire du sport;Local
-64;Loisirs créatifs;Atelier couture;Local
-65;Culture & Arts;Atelier théâtre d'improvisation;Local
-66;Voyage & Echange;Atelier de sensibilisation;Local
-67;Sports & Jeux;Sortie foot indoor;Local
-68;Sports & Jeux;Sortie basket indoor;Local
-69;Sports & Jeux;Team League of Legends;France
-70;Musique;Festival Solidays;France
-71;Musique;Festival des Vieilles Charrues;France
-72;Musique;Festival Interceltique;France
-73;Musique;Festival Lollapalooza;France
-74;Sorties & Rencontres;Soirée entre filles;Local
-75;Sports & Jeux;Escape Game;Local
-76;Culture & Arts;Exposition;France
-77;Sorties & Rencontres;Faire une scène ouverte humoristique;Local
-78;Sorties & Rencontres;Faire une scène ouverte poétique;Local
-79;Culture & Arts;Ateliers écriture;Local
-80;Sports & Jeux;Apprendre le surf;France
-81;Sports & Jeux;Sortie paintball;Local
-82;Loisirs créatifs;Initiation fabrication bijoux;Local
-83;Loisirs créatifs;Apprendre le dessin;Local
-84;Loisirs créatifs;Initiation à la boulangerie;Local
-85;Loisirs créatifs;Initiation à la patisserie;Local
-86;Loisirs créatifs;Initiation à la menuiserie;Local
-87;Loisirs créatifs;Initiation à la maroquinerie;Local
-88;Loisirs créatifs;Apprendre la sculpture;Local
-89;Loisirs créatifs;Apprendre à jardiner;Local
-90;Loisirs créatifs;Initiation à la couture;Local
-91;Voyage & Echange;Apprendre à voler en ULM;Local
-92;Voyage & Echange;Sauter en parachute;France
-93;Voyage & Echange;Vol en montgolfière;France
-94;Sorties & Rencontres;Sauter à l'élastique;France
-95;Voyage & Echange;Sortie ski;France
-96;Sports & Jeux;Sortie tir à l'arc;Local
-97;Loisirs créatifs;Apprendre à maquiller;Local
-98;Loisirs créatifs;Apprendre à coiffer;Local
-99;Loisirs créatifs;Fabrication de produits d'entretien maison;Local
-100;Loisirs créatifs;Apprendre à peindre;Local
-101;Loisirs créatifs;Scrapcooking;Local
-102;Loisirs créatifs;Découvrir le quilling (paperolle);Local
-103;Loisirs créatifs;Initiation à l'upcycling;Local
-104;Loisirs créatifs;Atelier Origami;Local
-105;Loisirs créatifs;Tricot;Local
-106;Sorties & Rencontres;Disneyland;Mondial
-107;Sorties & Rencontres;Europa Park;Mondial
-108;Voyage & Echange;Château de Versailles;Mondial
-109;Voyage & Echange;Mont Saint-Michel;Mondial
-110;Sorties & Rencontres;Le Puy du Fou;Mondial
-111;Culture & Arts;Musée d'Orsay;Mondial
-112;Sorties & Rencontres;Futuroscope;Mondial
-113;Sorties & Rencontres;Parc Astérix;Mondial
-114;Sorties & Rencontres;Zoo de Beauval;Mondial
-115;Sorties & Rencontres;Cité des sciences et de l'industrie de La Villette;France
-116;Culture & Arts;Museum d'histoire naturelle;France
-117;Sports & Jeux;Casino;France
-118;Voyage & Echange;Arc de Triomphe;Mondial
-119;Voyage & Echange;Château de Chenonceau;Mondial
-120;Voyage & Echange;Château de Chambord;Mondial
-121;Sorties & Rencontres;Fête des lumières;Mondial
-122;Culture & Arts;Musée Claude Monet;France
-123;Culture & Arts;Verrerie de Biot;France
-124;Culture & Arts;Palais de Tokyo;Mondial
-125;Sorties & Rencontres;Course hippique;France
-126;Culture & Arts;Panthéon;Mondial
-127;Culture & Arts;Musée Rodin;Mondial
-128;Culture & Arts;Tapisserie de Bayeux;France
-129;Sorties & Rencontres;Catacombes;France
-130;Sorties & Rencontres;Fêtes de Bayonne;Mondial
-131;Sorties & Rencontres;Feria de Nîmes;Mondial
-132;Sorties & Rencontres;Feria de Dax;Mondial
-133;Sports & Jeux;Pêche;Local
-134;Voyage & Echange;Camping;France
-135;Sports & Jeux;Chasse;Local
-136;Autres;Faire des maraudes;Local
-137;Sports & Jeux;Golf;Local
-138;Sports & Jeux;Pétanque;Local
-139;Sports & Jeux;Paddle;Local
-140;Musique;Festival d'Avignon;Mondial
-141;Musique;Francofolies de la Rochelle;Mondial
-142;Musique;Eurockéennes de Belfort;Mondial
-143;Sports & Jeux;Participer à un quart-marathon;France
+﻿Id;category;title;description;Localisation;prefLang
+1;music;Découvrir la musique classique;;Local;fr
+2;music;Jouer de la music;;Local;fr
+3;music;Aller à un concert;;France;fr
+4;hangingOutAndMeet;Faire un bowling;;Local;fr
+5;hangingOutAndMeet;Découvrir des jeux de société;;Local;fr
+6;tripsAndExchanges;Parler anglais;;Local;fr
+7;tripsAndExchanges;Parler allemand;;Local;fr
+8;tripsAndExchanges;Parler espagnol;;Local;fr
+9;hangingOutAndMeet;Se faire un cinéma;;Local;fr
+10;artsAndCulture;Visiter un château;;France;fr
+11;tripsAndExchanges;Aller au Japon;;France;fr
+12;tripsAndExchanges;Aller en Thaïlande;;France;fr
+13;tripsAndExchanges;Aller au Canada;;France;fr
+14;tripsAndExchanges;Aller aux USA;;France;fr
+15;tripsAndExchanges;Aller en Amérique Latine;;France;fr
+16;tripsAndExchanges;Faire un voyage en Asie;;France;fr
+17;hangingOutAndMeet;Visiter Paris;;France;fr
+18;artsAndCulture;Aller au musée du Louvre;;France;fr
+19;artsAndCulture;Aller au musée Grévin;;France;fr
+20;music;Découvrir l'Opéra;;France;fr
+21;hangingOutAndMeet;Faire un afterwork;;Local;fr
+22;hangingOutAndMeet;Apprendre à danser (SBK);;Local;fr
+23;hangingOutAndMeet;Apprendre une danse de salon;;Local;fr
+24;sportsAndGames;Faire du breakdance;;Local;fr
+25;sportsAndGames;Danser le modern Jazz;;Local;fr
+26;sportsAndGames;Danser le rock acrobatique;;Local;fr
+27;sportsAndGames;Faire une soirée karaoké;;Local;fr
+28;tripsAndExchanges;Faire une randonnée;;France;fr
+29;tripsAndExchanges;Faire le GR20;;France;fr
+30;sportsAndGames;Participer à une course (5 ou 10km);;France;fr
+31;sportsAndGames;Participer à un semi-marathon;;France;fr
+32;sportsAndGames;Participer à un marathon;;France;fr
+33;sportsAndGames;Faire un trail;;France;fr
+34;sportsAndGames;Faire un triathlon;;France;fr
+35;sportsAndGames;Faire une sortie VTT;;France;fr
+36;artsAndCulture;Participer à un vernissage;;Local;fr
+37;sportsAndGames;Faire de l'escalade;;Local;fr
+38;tripsAndExchanges;Faire une sortie moto;;Local;fr
+39;sportsAndGames;Sortie trampoline;;Local;fr
+40;sportsAndGames;Faire un karting;;Local;fr
+41;hangingOutAndMeet;Balade en plein air;;Local;fr
+42;hangingOutAndMeet;Initiation œnologie;;Local;fr
+43;hangingOutAndMeet;Initiation cuisine;;Local;fr
+44;creativeLeisure;Découvrir le scrapbooking;;Local;fr
+45;music;Aller à la Philharmonie de Paris;;France;fr
+46;hangingOutAndMeet;Découvrir le meilleur resto de Paris;;Local;fr
+47;hangingOutAndMeet;Assister à un stand-up ;;Local;fr
+48;music;Faire une scène ouverte music;;Local;fr
+49;hangingOutAndMeet;Balade avec nos chiens;;Local;fr
+50;tripsAndExchanges;Sortie photographie;;Local;fr
+51;tripsAndExchanges;Observation astronomique;;Local;fr
+52;tripsAndExchanges;Randonnée Camino Frances;;France;fr
+53;tripsAndExchanges;Randonnée GR10;;France;fr
+54;tripsAndExchanges;Randonnée GR31;;France;fr
+55;tripsAndExchanges;Randonnée GR34;;France;fr
+56;hangingOutAndMeet;Promenade cross;;Local;fr
+57;hangingOutAndMeet;Promenade quad;;Local;fr
+58;sportsAndGames;Sortie vélo de route;;Local;fr
+59;artsAndCulture;Aller au théâtre;;Local;fr
+60;tripsAndExchanges;Urbex : découverte de lieux abandonnés;;Local;fr
+61;tripsAndExchanges;Débat d'opinions;;Local;fr
+62;hangingOutAndMeet;Sortie shopping;;Local;fr
+63;sportsAndGames;Faire du sport;;Local;fr
+64;creativeLeisure;Atelier couture;;Local;fr
+65;artsAndCulture;Atelier théâtre d'improvisation;;Local;fr
+66;tripsAndExchanges;Atelier de sensibilisation;;Local;fr
+67;sportsAndGames;Sortie foot indoor;;Local;fr
+68;sportsAndGames;Sortie basket indoor;;Local;fr
+69;sportsAndGames;Team League of Legends;;France;fr
+70;music;Festival Solidays;;France;fr
+71;music;Festival des Vieilles Charrues;;France;fr
+72;music;Festival Interceltique;;France;fr
+73;music;Festival Lollapalooza;;France;fr
+74;hangingOutAndMeet;Soirée entre filles;;Local;fr
+75;sportsAndGames;Escape Game;;Local;fr
+76;artsAndCulture;Exposition;;France;fr
+77;hangingOutAndMeet;Faire une scène ouverte humoristique;;Local;fr
+78;hangingOutAndMeet;Faire une scène ouverte poétique;;Local;fr
+79;artsAndCulture;Ateliers écriture;;Local;fr
+80;sportsAndGames;Apprendre le surf;;France;fr
+81;sportsAndGames;Sortie paintball;;Local;fr
+82;creativeLeisure;Initiation fabrication bijoux;;Local;fr
+83;creativeLeisure;Apprendre le dessin;;Local;fr
+84;creativeLeisure;Initiation à la boulangerie;;Local;fr
+85;creativeLeisure;Initiation à la patisserie;;Local;fr
+86;creativeLeisure;Initiation à la menuiserie;;Local;fr
+87;creativeLeisure;Initiation à la maroquinerie;;Local;fr
+88;creativeLeisure;Apprendre la sculpture;;Local;fr
+89;creativeLeisure;Apprendre à jardiner;;Local;fr
+90;creativeLeisure;Initiation à la couture;;Local;fr
+91;tripsAndExchanges;Apprendre à voler en ULM;;Local;fr
+92;tripsAndExchanges;Sauter en parachute;;France;fr
+93;tripsAndExchanges;Vol en montgolfière;;France;fr
+94;hangingOutAndMeet;Sauter à l'élastique;;France;fr
+95;tripsAndExchanges;Sortie ski;;France;fr
+96;sportsAndGames;Sortie tir à l'arc;;Local;fr
+97;creativeLeisure;Apprendre à maquiller;;Local;fr
+98;creativeLeisure;Apprendre à coiffer;;Local;fr
+99;creativeLeisure;Fabrication de produits d'entretien maison;;Local;fr
+100;creativeLeisure;Apprendre à peindre;;Local;fr
+101;creativeLeisure;Scrapcooking;;Local;fr
+102;creativeLeisure;Découvrir le quilling (paperolle);;Local;fr
+103;creativeLeisure;Initiation à l'upcycling;;Local;fr
+104;creativeLeisure;Atelier Origami;;Local;fr
+105;creativeLeisure;Tricot;;Local;fr
+106;hangingOutAndMeet;Disneyland;;Mondial;fr
+107;hangingOutAndMeet;Europa Park;;Mondial;fr
+108;tripsAndExchanges;Château de Versailles;;Mondial;fr
+109;tripsAndExchanges;Mont Saint-Michel;;Mondial;fr
+110;hangingOutAndMeet;Le Puy du Fou;;Mondial;fr
+111;artsAndCulture;Musée d'Orsay;;Mondial;fr
+112;hangingOutAndMeet;Futuroscope;;Mondial;fr
+113;hangingOutAndMeet;Parc Astérix;;Mondial;fr
+114;hangingOutAndMeet;Zoo de Beauval;;Mondial;fr
+115;hangingOutAndMeet;Cité des sciences et de l'industrie de La Villette;;France;fr
+116;artsAndCulture;Museum d'histoire naturelle;;France;fr
+117;sportsAndGames;Casino;;France;fr
+118;tripsAndExchanges;Arc de Triomphe;;Mondial;fr
+119;tripsAndExchanges;Château de Chenonceau;;Mondial;fr
+120;tripsAndExchanges;Château de Chambord;;Mondial;fr
+121;hangingOutAndMeet;Fête des lumières;;Mondial;fr
+122;artsAndCulture;Musée Claude Monet;;France;fr
+123;artsAndCulture;Verrerie de Biot;;France;fr
+124;artsAndCulture;Palais de Tokyo;;Mondial;fr
+125;hangingOutAndMeet;Course hippique;;France;fr
+126;artsAndCulture;Panthéon;;Mondial;fr
+127;artsAndCulture;Musée Rodin;;Mondial;fr
+128;artsAndCulture;Tapisserie de Bayeux;;France;fr
+129;hangingOutAndMeet;Catacombes;;France;fr
+130;hangingOutAndMeet;Fêtes de Bayonne;;Mondial;fr
+131;hangingOutAndMeet;Feria de Nîmes;;Mondial;fr
+132;hangingOutAndMeet;Feria de Dax;;Mondial;fr
+133;sportsAndGames;Pêche;;Local;fr
+134;tripsAndExchanges;Camping;;France;fr
+135;sportsAndGames;Chasse;;Local;fr
+136;others;Faire des maraudes;;Local;fr
+137;sportsAndGames;Golf;;Local;fr
+138;sportsAndGames;Pétanque;;Local;fr
+139;sportsAndGames;Paddle;;Local;fr
+140;music;Festival d'Avignon;;Mondial;fr
+141;music;Francofolies de la Rochelle;;Mondial;fr
+142;music;Eurockéennes de Belfort;;Mondial;fr
+143;sportsAndGames;Participer à un quart-marathon;;France;fr
